@@ -1,0 +1,204 @@
+<HTML><HEAD></HEAD><BODY><div width="100%"><div width="100%"><html>
+    <head>
+        <style type="text/css">
+            .ReadMsgBody {width: 100%;}
+            .ExternalClass {width: 100%;}
+            span.yshortcuts { color:#000; background-color:none; border:none;}
+            span.yshortcuts:hover,
+            span.yshortcuts:active,
+            span.yshortcuts:focus {color:#000; background-color:none; border:none;}
+        </style>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    </head>
+    <body>
+        <!--MainTable-->
+        <table border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#F6F6F5">
+            <tbody>
+                <tr>
+                    <td align="center" valign="top">
+                    <!--Blue Header Logo-->
+                    <table border="0" width="640" cellspacing="0" cellpadding="0">
+                        <tbody>
+                            <tr>
+                                <td align="center" bgcolor="#09347A" height="150"><a href="http://boisestate.askadmissions.net/admin/Communications/ClickThru.aspx?qs=aovIftAFJSIVdDs8%2b69L5dUeawo4RZ5Rwv8%2f8BFWz89GXQ2oAmvDJavtlQTYCTrcx%2bl5XxTLivw%3d" target="_blank"><img id="top_logo" style="display: block; color: #ffffff; font-family: Arial; font-size: 20px;" src="https://d11lzdhqy8rqza.cloudfront.net/95499/1_logo_top.png" alt="Boise State University" width="237" height="140" border="0"></a></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html></div><div width="100%"><!--MainTable-->
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+    <tbody>
+        <tr>
+            <td align="center" valign="top">
+            <!--Event Body White-->
+            <table border="0" width="640" cellspacing="0" cellpadding="0" bgcolor="#ffffff">
+                <tbody>
+                    <tr>
+                        <!--HorizontalPadding-->
+                        <td class="horz_pad" width="51"><img class="horz_pad" style="display: block;" src="https://d11lzdhqy8rqza.cloudfront.net/95499/spacer.png" alt="" width="1" height="40"></td>
+                        <td class="content" style=" font-size: 18px; color: #464646; text-align: left;" valign="top">
+                        <br>
+                        <br>
+                        <!--HeadingText-->
+                        <span style="font-family: Arial; font-size: 22px; color:#09347A; line-height: 160%; letter-spacing: 1px"><strong><strong>Blake,</strong></strong></span>
+                        </td>
+                        <!--HorizontalPadding-->
+                        <td class="horz_pad" width="51"><img class="horz_pad" style="display: block;" src="https://d11lzdhqy8rqza.cloudfront.net/95499/spacer.png" alt="" width="1" height="40"></td>
+                    </tr>
+                    <!--VerticalPadding-->
+                    <tr>
+                        <td colspan="3"><img class="vert_pad" src="https://d11lzdhqy8rqza.cloudfront.net/95499/spacer.png" alt="" width="1" height="40"></td>
+                    </tr>
+                    <!--HorizontalPadding-->
+                    <tr>
+                        <td class="horz_pad" width="51"><img class="horz_pad" style="display: block;" src="https://d11lzdhqy8rqza.cloudfront.net/95499/spacer.png" alt="" width="1" height="40"></td>
+                        <!--MainText-->
+                        <td class="content" style=" font-size: 16px; color: #464646; text-align: left;" valign="top">
+                        <div><font face="Arial">When you seek the opportunities of a big city and the excitement of the great outdoors. When you push the boundaries of academics and crave the thrill of athletics. When you combine information and imagination with dreams of changing the world. And when you can float down the river and Finish in Four.</font></div>
+                        <div><font face="Arial">&nbsp;</font></div>
+                        <div><font face="Arial">You don't just go to Boise State. You begin an adventure.</font></div>
+                        </td>
+                        <!--HorizontalPadding-->
+                        <td class="horz_pad" width="51"><img class="horz_pad" style="display: block;" src="https://d11lzdhqy8rqza.cloudfront.net/95499/spacer.png" alt="" width="1" height="40"></td>
+                    </tr>
+                    <!--VerticalPadding-->
+                    <tr>
+                        <td colspan="3"><img class="vert_pad" src="https://d11lzdhqy8rqza.cloudfront.net/95499/spacer.png" alt="" width="1" height="40"></td>
+                    </tr>
+                    <!--HorizontalPadding-->
+                    <tr>
+                        <td class="horz_pad" width="51"><img class="horz_pad" style="display: block;" src="https://d11lzdhqy8rqza.cloudfront.net/95499/spacer.png" alt="" width="1" height="40"></td>
+                        <!--RegisterButton-->
+                        <td align="center">
+                        <a href="https://boisestate.askadmissions.net/admin/Communications/AyAutoLoginClickThru.ashx?info=WtlTufDWmt%2bLI8XLNrtB%2bw2gzci2yEQbE4R4u3cvB3%2frzoBOMgD%2f%2f%2bI263sYlu3OQ4wgIT1ln8bk3B86bN6TEzu14TyXuOyrJ4G08lLHmcYIGCrAnAdagOeEsfpa4il5j%2bMXmuOpx2gVNnSx3%2fxCxKGOWwzQIP9SP11f9NavBW3Y4bkrvMMK8wW2gLSC9G%2bsH%2f6sZtTrhcTu07AZoxONUQ%3d%3d" target="_blank" style="background-color:#09347A;  border:2px solid #ffffff; color:#FFFFFF; display:inline-block; font-family:sans-serif; font-size:20px; letter-spacing: 1px; font-weight:bold; line-height:75px; text-align:center; text-decoration:none; width:569px; -webkit-text-size-adjust:none; mso-hide:all;"><strong>APPLY NOW</strong></a>
+                        <!--HorizontalPadding-->
+                        </td>
+                        <td class="horz_pad" width="51"><img class="horz_pad" style="display: block;" src="https://d11lzdhqy8rqza.cloudfront.net/95499/spacer.png" alt="" width="1" height="40"></td>
+                    </tr>
+                    <!--VerticalPadding-->
+                    <tr>
+                        <td colspan="3"><img class="vert_pad" src="https://d11lzdhqy8rqza.cloudfront.net/95499/spacer.png" alt="" width="1" height="40"></td>
+                    </tr>
+                    <!--HorizontalPadding-->
+                    <tr>
+                        <td class="horz_pad" width="51"><img class="horz_pad" style="display: block;" src="https://d11lzdhqy8rqza.cloudfront.net/95499/spacer.png" alt="" width="1" height="40"></td>
+                        <!--MainText-->
+                        <td class="content" style=" font-size: 16px; color: #464646; text-align: left;" valign="top">
+                        <span style="font-family: Arial; font-size: 16px; color:#464646; line-height:140%;">
+                        Go Broncos!<br>
+                        <br>
+                        <br>
+                        <br>
+                        Boise State Admissions <br>
+                        <br>
+                        </span>
+                        </td>
+                        <!--HorizontalPadding-->
+                        <td class="horz_pad" width="51"><img class="horz_pad" style="display: block;" src="https://d11lzdhqy8rqza.cloudfront.net/95499/spacer.png" alt="" width="1" height="40"></td>
+                    </tr>
+                    <!--VerticalPadding-->
+                    <tr>
+                        <td colspan="3"><img class="vert_pad" src="https://d11lzdhqy8rqza.cloudfront.net/95499/spacer.png" alt="" width="1" height="40"></td>
+                    </tr>
+                </tbody>
+            </table>
+            </td>
+        </tr>
+    </tbody>
+</table></div><div width="100%"><table border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#F6F6F5">
+    <tbody>
+        <tr>
+            <td align="center" valign="top">
+            <!--Footer-->
+            <table border="0" width="640" cellspacing="0" cellpadding="0" bgcolor="#09347A">
+                <tbody>
+                    <!--VerticalPadding-->
+                    <tr>
+                        <td colspan="3"><img class="vert_pad" src="https://d11lzdhqy8rqza.cloudfront.net/95499/spacer.png" alt="" width="1" height="33">
+                        </td>
+                    </tr>
+                    <!--Footer Logo-->
+                    <tr>
+                        <td align="center" bgcolor="#09347A">
+                        <a href="http://boisestate.askadmissions.net/admin/Communications/ClickThru.aspx?qs=aovIftAFJSIVdDs8%2b69L5dUeawo4RZ5Rwv8%2f8BFWz89GXQ2oAmvDJavtlQTYCTrcx%2bl5XxTLivw%3d" target="_blank"><img id="top_logo" style="display: block; color: #ffffff; font-family: Arial; font-size: 20px;" src="http://static.askadmissions.net/boisestate/UserMedia/2016%20Templates%20Assets/Logos/WhtTxtLogo.png" alt="Boise State University Logo" width="237" height="66" border="0">
+                        </a>
+                        </td>
+                    </tr>
+                    <!--VerticalPadding-->
+                    <tr>
+                        <td colspan="3"><img class="vert_pad" src="https://d11lzdhqy8rqza.cloudfront.net/95499/spacer.png" alt="" width="1" height="30">
+                        </td>
+                    </tr>
+                    <!--SocialIcons-->
+                    <tr>
+                        <td align="center" bgcolor="#09347A">
+                        <!--FaceBook-->
+                        <a href="http://boisestate.askadmissions.net/admin/Communications/ClickThru.aspx?qs=aovIftAFJSIVdDs8%2b69L5abdI5EjpSku7SLPwJzTrYtSI7HmNmm3rFSCb9kXh67VGyroEEEiYAc%3d" target="_blank"><img src="https://static.askadmissions.net/boisestate/UserMedia/2016%20Templates%20Assets/Buttons/facebook.png" alt="Facebook" width="33" height="34" border="0"></a>&nbsp;&nbsp;&nbsp;
+                        <!--Twitter-->
+                        <a href="http://boisestate.askadmissions.net/admin/Communications/ClickThru.aspx?qs=aovIftAFJSIVdDs8%2b69L5ff%2bwp2KM%2brkvpCyeXRvya7LmwII9p90z8WxlGVfFS8VYi9tWHTR4%2fM%3d" target="_blank"><img src="https://static.askadmissions.net/boisestate/UserMedia/2016%20Templates%20Assets/Buttons/twitter.png" alt="Twitter" width="33" height="34"></a>&nbsp;&nbsp;&nbsp;
+                        <!--Instagram-->
+                        <a href="http://boisestate.askadmissions.net/admin/Communications/ClickThru.aspx?qs=aovIftAFJSIVdDs8%2b69L5Vkq4bbMzzRo%2fEAl4979TvY6KuqXd%2bowUKSdabfS3wLP%2fWZ4VciS2UI%3d" target="_blank"><img src="https://static.askadmissions.net/boisestate/UserMedia/2016%20Templates%20Assets/Buttons/instagram.png" alt="Instagram" width="33" height="34">
+                        </a>
+                        </td>
+                    </tr>
+                    <!--VerticalPadding-->
+                    <tr>
+                        <td colspan="3"><img class="vert_pad" src="https://d11lzdhqy8rqza.cloudfront.net/95499/spacer.png" alt="" width="1" height="38">
+                        </td>
+                    </tr>
+                    <!--Apply&VisitButtons-->
+                    <tr>
+                    </tr>
+                </tbody>
+            </table>
+            <table border="0" width="640" cellspacing="0" cellpadding="0" bgcolor="#09347A">
+                <tbody>
+                    <tr align="center" bgcolor="#09347A">
+                        <!--HorizontalPadding-->
+                        <td class="horz_pad" width="71"><img class="horz_pad" style="display: block;" src="https://d11lzdhqy8rqza.cloudfront.net/95499/spacer.png" alt="" width="1" height="40">
+                        </td>
+                        <!--ApplyButton-->
+                        <td width="230"><a href="http://boisestate.askadmissions.net/admin/Communications/ClickThru.aspx?qs=aovIftAFJSIVdDs8%2b69L5VTbN1ZdJbAJg3GTZKH2FEcD5VtKULF9suB%2bM9fNNosvRw%2bbekVJJQg%3d" target="_blank" style="background-color:#09347A;  border:2px solid #ffffff; color:#ffffff; display:inline-block; font-family:sans-serif; font-size:14px; letter-spacing: 1px; font-weight:bold; line-height:50px; text-align:center; text-decoration:none; width:230px; -webkit-text-size-adjust:none; mso-hide:all;">APPLY NOW</a>
+                        </td>
+                        <!--HorizontalPadding-->
+                        <td class="horz_pad" width="38"><img class="horz_pad" style="display: block;" src="https://d11lzdhqy8rqza.cloudfront.net/95499/spacer.png" alt="" width="1" height="40">
+                        </td>
+                        <!--AdmissionsButton-->
+                        <td width="230"><a href="http://boisestate.askadmissions.net/admin/Communications/ClickThru.aspx?qs=aovIftAFJSIVdDs8%2b69L5eLr4eZrz2p74B1VQ7Gx2UxaYdjg3NDk5r8tNZiiNNtzdp5RMnd9sPA%3d" target="_blank" style="background-color:#09347A;  border:2px solid #ffffff; color:#ffffff; display:inline-block; font-family:sans-serif; font-size:14px; letter-spacing: 1px; font-weight:bold; line-height:50px; text-align:center; text-decoration:none; width:230px; -webkit-text-size-adjust:none; mso-hide:all;">ADMISSIONS</a>
+                        </td>
+                        <!--HorizontalPadding-->
+                        <td class="horz_pad" width="71"><img class="horz_pad" style="display: block;" src="https://d11lzdhqy8rqza.cloudfront.net/95499/spacer.png" alt="" width="1" height="40">
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <!--VerticalPadding-->
+            <table border="0" width="640" cellspacing="0" cellpadding="0" bgcolor="#09347A">
+                <tbody>
+                    <tr>
+                        <td colspan="3"><img class="vert_pad" src="https://d11lzdhqy8rqza.cloudfront.net/95499/spacer.png" alt="" width="1" height="46">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center">
+                        <span style="font-family: Arial; font-size: 11px; color: #ffffff;">Copyright © 2016 Boise State University. All rights reserved.
+                        </span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="horz_pad" width="60"><img class="horz_pad" style="display: block;" src="https://d11lzdhqy8rqza.cloudfront.net/95499/spacer.png" alt="" width="1" height="35">
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            </td>
+        </tr>
+    </tbody>
+</table></div></div>
+<BR><BR><TABLE width="100%">
+<TR><TD><IMG src=http://boisestate.askadmissions.net/admin/Communications/WebBeacon.aspx?qs=aovIftAFJSLv%2fJDhBsqh0k6ujUrZfVzUoaL7LrCp9MZruEERFbejZg%3d%3d></TD></TR><TR><TD style="FONT-SIZE: 10pt; FONT-FAMILY: Verdana" align="left">To opt-out from future Boise State Admissions e-mail communications, please&nbsp;<A HREF="http://boisestate.askadmissions.net/admin/Communications/OptOut.aspx?qs=3%2bNN5X683GtvKqyoybmoCKnanrjO0r6gkoKkBB7X9k%2f2gDVQrldvNg%3d%3d">unsubscribe.</A></TD></TR><TR><TD>&nbsp;</TD></TR><TR><TD style="FONT-SIZE: 8pt; FONT-FAMILY: Verdana" align="center">Boise State University</TD></TR>
+</TABLE></BODY></HTML>

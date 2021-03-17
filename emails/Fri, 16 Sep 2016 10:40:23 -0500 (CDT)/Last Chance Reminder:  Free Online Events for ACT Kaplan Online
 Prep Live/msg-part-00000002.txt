@@ -1,0 +1,182 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" >
+<head>
+
+<script type="text/javascript">
+          var Mkt3L10n = {
+                currLanguage: "en_US",
+                currLocale: "en_US",
+                defaultLanguage: "en_US",
+                defaultLocale: "en_US",
+                qaLanguage: ["hu","af","fi"],
+                currTimezone: "America/Chicago",
+                defaultBranding: "Default",
+                currBranding: "Default",
+                currTimezoneShort: "CDT",
+                currTimezoneUTCOffset: -18000,
+                subTimezoneShort: "CST",
+                buildEnv: "prod",
+                buildVersion: "20160520110831",
+                patternTimeShort: "g:i A",
+                patternDateShort: "m/j/Y",
+                patternDateMedium: "M j, Y",
+                patternDateMediumWithoutYear: "M j",
+                patternDateLong: "F j, Y",
+                patternDateTimeShorter: "M j, g:i A",
+                patternDateTimeShort: "m/j/Y g:i A",
+                patternDateTimeMedium: "M j, Y g:i A",
+                patternDateTimeLong: "F j, Y g:i:s A",
+                patternDateTimeFull: "l j F Y G:i:s",
+                supportedCurrency: [{"code":"USD","displayName":"(USD) US Dollar","symbolHtml":"$"},{"code":"EUR","displayName":"(EUR) Euro","symbolHtml":"&euro;"},{"code":"ARS","displayName":"(ARS) Argentine Peso","symbolHtml":"$"},{"code":"AUD","displayName":"(AUD) Australian 
+Dollar","symbolHtml":"$"},{"code":"BRL","displayName":"(BRL) Brazilian Real","symbolHtml":"R$"},{"code":"GBP","displayName":"(GBP) Pound Sterling","symbolHtml":"&pound;"},{"code":"CAD","displayName":"(CAD) Canadian Dollar","symbolHtml":"$"},{"code":"CLP","displayName":"(CLP) Chile 
+Pesos","symbolHtml":"$"},{"code":"CNY","displayName":"(CNY) China Yuan Renminbi","symbolHtml":"&yen;"},{"code":"HRK","displayName":"(HRK) Croatia Kuna","symbolHtml":"kn"},{"code":"CZK","displayName":"(CZK) Czech Republic Koruny","symbolHtml":"K\u010d"},{"code":"DKK","displayName":"(DKK) Denmark 
+Kroner","symbolHtml":"kr"},{"code":"HKD","displayName":"(HKD) Hong Kong Dollar","symbolHtml":"$"},{"code":"ILS","displayName":"(ILS) Israel New Shekels","symbolHtml":"&#8362;"},{"code":"MXN","displayName":"(MXN) Mexico Pesos","symbolHtml":"$"},{"code":"ANG","displayName":"(ANG) Netherlands 
+Antilles Guilders","symbolHtml":"&#402;"},{"code":"NZD","displayName":"(NZD) New Zealand Dollar","symbolHtml":"NZ$"},{"code":"NOK","displayName":"(NOK) Norway Kroner","symbolHtml":"kr"},{"code":"SGD","displayName":"(SGD) Singapore Dollars","symbolHtml":"$"},{"code":"ZAR","displayName":"(ZAR) South 
+Africa Rand","symbolHtml":"R"},{"code":"SEK","displayName":"(SEK) Sweden Kronor","symbolHtml":"kr"},{"code":"CHF","displayName":"(CHF) Switzerland Francs","symbolHtml":"CHF"},{"code":"TWD","displayName":"(TWD) Taiwan New Dollars","symbolHtml":"NT$"},{"code":"JPY","displayName":"(JPY) Japan 
+Yen","symbolHtml":"&yen;"}]
+         }
+</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="title" content="Marketo">
+<meta name="robots" content="index, follow">
+<meta name="description" content="Marketo, Inc.">
+<meta name="keywords" content="Marketo Lead Nurture">
+<meta name="language" content="en">
+<title>Marketo</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<meta name="HandheldFriendly" content="true">
+<meta name="viewport" content="width=640, user-scalable=no">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>ACT</title>
+
+<style type="text/css">
+table
+{
+        border-collapse:collapse !important;
+}
+@media only screen and (max-width: 640px)
+{
+        *[class].table_responsive{width:100% !important;}
+        *[class].deviceWidth{width:440px !important;}
+       
+        *[class].iphone_left_pad{padding-left:15px !important;}
+        *[class].iphone_top_pad{padding-top:20px;}
+        *[class].banner_pad{padding-top:34px;text-align:center !important;}
+        *[class].iphone_img{max-width:100%;}
+        *[class].iphone_pad{padding:0px 15px;}
+        *[class].title_detail{padding:0 15px;font-size:23px !important;}
+        *[class].no_right_pad{padding-right:0px !important;}
+        *[class].iphone_bullet_align{ padding-top: 7px !important;vertical-align: top !important;}
+        *[class].footer_align{text-align:left !important;padding-bottom:0px !important;padding-top:13px !important;}
+        *[class].foot_font{font-size:11px !important;padding-bottom:13px !important;}
+        *[class].events_table{width:100% !important;text-align:left !important;}
+        *[class].text-center{text-align:center; margin:0 auto;}
+ 
+}
+@media only screen and (max-width: 475px)
+{      
+        *[class].table_responsive{width:100% !important;}
+        *[class].deviceWidth{width:280px !important;}
+}
+</style>
+</head>
+<body ><table width="600" cellpadding="0" cellspacing="0" style="width:600px; margin:0 auto; font-family:Arial, Helvetica, sans-serif; border:1px solid #F3F3F3; " class="deviceWidth" align="center" ><tr>
+<td style="font-size:1px;line-height:1px;height:25px;" height="25">&nbsp;</td>
+</tr>
+<tr ><td style="display:none !important; visibility:hidden; mso-hide:all; font-size:1px; color:#ffffff; line-height:1px; max-height:0px; max-width:0px; opacity:0; overflow:hidden; " ><div style="display:none !important; visibility:hidden; font-size:0px; color:#ffffff; line-height:0px; max-height:0px; max-width:0px; opacity:0; overflow:hidden; " class="mktEditable" id="preheader" ><p>Free Online Events Get You Ready for the ACT</p></div>
+</td>
+</tr>
+<tr ><td ><table width="574" border="0" cellpadding="0" cellspacing="0" style="width:574px; margin:0 auto; font-family:Arial, Helvetica, sans-serif; " class="table_responsive" align="center" ><tr ><td class="iphone_right_pad" ><div class="mktEditable" id="logo" ><img src="https://pages2.act.org/rs/actenterprise/images/logo-act-193x50.png" alt="Logo"></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="font-size:1px;line-height:1px;height:2px;" height="2">&nbsp;</td>
+</tr>
+<tr>
+<td style="font-size:10px;line-height:1px;height:1px;background-color:#ffffff;" height="1">&nbsp;</td>
+</tr>
+<tr>
+<td style="background-color:#fffff; mso-table-lspace:0; mso-table-rspace:0:;" bgcolor="#FFFFFF">
+<table width="585" border="0" cellpadding="0" cellspacing="0" style="width:585px; font-family:Arial, Helvetica, sans-serif;" class="table_responsive" align="left">
+<tr>
+<td>
+<table width="48%" cellpadding="0" cellspacing="0" border="0" style="width:48%;" class="table_responsive" align="left">
+<tr>
+<td style="font-size:1px;line-height:1px;height:1px;background-color:#ffffff;" height="1">&nbsp;</td>
+</tr>
+<tr>
+<td style="color:#ffffff; font-size:24px; line-height:30px; font-family:Arial, Helvetica, sans-serif;" class="title_detail text-center"></td>
+</tr>
+<tr>
+<td style="color:#ffffff; font-size:17px; line-height:20px; font-family:Arial, Helvetica, sans-serif;" class="text-center"></td>
+</tr>
+</table>
+<table width="48%" cellpadding="0" cellspacing="0" border="0" style="width:48%; background-color:#ffffff;" class="table_responsive" align="left">
+<tr>
+<td class="banner_pad" style="text-align:left;"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="font-size:1px;line-height:1px;height:17px;" height="17">&nbsp;</td>
+</tr>
+<tr ><td class="iphone_pad" ><table width="575" border="0" cellpadding="0" cellspacing="0" style="width:575px; margin:0 auto; font-family:Arial, Helvetica, sans-serif; " class="table_responsive" align="center" ><tr ><td ><table width="100%" cellpadding="0" cellspacing="0" border="0" style="width:100%; " class="table_responsive" align="left" ><tr ><td style="color:#333333; font-size:14px; line-height:23px; padding-top:10px; font-family:Arial, Helvetica, sans-serif; padding-right:16px; " class="no_right_pad" ><div class="mktEditable" id="body_middle_text" ><div><strong>Free Online Events Get You Ready for the ACT </strong><br /><strong>Monday &ndash; Thursday, Sept. 19 &ndash; 22 | 7 p.m. EDT</strong><br /></div>
+<div><strong style="color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; line-height: 23px; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff;"></strong><br /></div>
+<div>Here&rsquo;s your last chance reminder about next week&rsquo;s live events to learn about the new online, instructor led program to get you ready to take the ACT.</div>
+<div><br />Starting Monday at 7 p.m. Eastern and for four consecutive nights, some of the best and brightest instructors from Kaplan will share an overview of the dynamic and powerful instruction available if you&rsquo;re an <strong>Online Prep Live</strong> subscriber.<br /></div>
+<div><br /><a href=
+"http://go.act.org/u3S400sCnu000z02DCPGQ30" target="_blank"
+>Learn more here</a>, and sign up to receive a reminder. If you can&rsquo;t make the live events, bookmark the events page and check back later for free on-demand recordings of the presentations.</div>
+<div><br />We look forward to seeing you next week!</div>
+<div><br /></div>
+<div style="text-align: center;"><a href=
+"http://go.act.org/JC2uGP043Q0SADs00C004n0" target="_blank"
+><img src="https://pages2.act.org/rs/035-EZR-959/images/learn more button.png" alt="" width="155" height="40" constrain="true" imagepreview="false" border="" /></a><br /></div></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="height:30px;font-size:1px;line-height:1px;" height="30">&nbsp;</td>
+</tr>
+<tr ><td style="background-color:#042e60; padding:0px 13px; " bgcolor="#FFFFFF" ><table width="36%" cellpadding="0" cellspacing="0" border="0" class="table_responsive" style="width:36%; " align="right" ><tr ><td style="text-align:right; padding:20px 10px; " class="footer_align" ><div class="mktEditable" id="social_icons" ><a href=
+"http://go.act.org/m400SB20n0P03uCsCD50GQ0"
+><img src="https://pages2.act.org/rs/actenterprise/images/EM-Floro-facebook.png" alt="fb"></a>&nbsp;&nbsp;&nbsp; <a href=
+"http://go.act.org/TCSGD0C03000sC624unP0Q0"
+><img src="https://pages2.act.org/rs/actenterprise/images/EM-Floro-twitter.png" alt="tweet"></a>&nbsp;&nbsp;&nbsp; <a href=
+"http://go.act.org/rn070Q2D0CDusSG3C04P000"
+><img src="https://pages2.act.org/rs/actenterprise/images/EM-Floro-linkedin.png" alt="in"></a>&nbsp;&nbsp;&nbsp; <a href="http://go.act.org/v/lDCPG000u3sC0Q20n0S0a4G"><img src="https://pages2.act.org/rs/actenterprise/images/icon-envelope.png" alt="Email"></a></div>
+</td>
+</tr>
+</table>
+<table width="60%" cellpadding="0" cellspacing="0" border="0" class="table_responsive" style="width:60%; " align="left" ><tr ><td style="font-size:12px; line-height:15px; color:#ffffff; font-family:Arial, Helvetica, sans-serif; padding:20px 10px; vertical-align:top; " class="foot_font" ><div class="mktEditable" id="copyright" >&copy; 2016 by ACT, Inc. All rights reserved.<br>
+500 ACT Drive, Iowa City, Iowa 52243<br>
+<a href="http://pages.act.org/index.php/email/emailWebview?mkt_tok=eyJpIjoiWkRRek9UZzVPV0l6TXpjNCIsInQiOiI5ZmlBaXBEaWc3RWZ6WjJxY1d2SjhWOGdLdWFYbnJ1RWtzWWZlWVZWeHlYQTUyY3prai9LS2s3cE5RODB0RHZKSi94NWpXMjVDREtUa1JBbnI0M0REcUNXRlBOUU5UbUtNSXowNlBpQjJHTT0ifQ%3D%3D"><span style="color:#ffffff;text-decoration:underline;">View as webpage here.</span></a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<a href=
+"http://go.act.org/R00uns3CP00020C4G8QDES0"
+></a>
+<img src="http://go.act.org/trk?t=1&mid=NDgwLUdDUS0wMzQ6MjI3MDoyMjgwOjEwOTg0OjA6MjE5OTo3OjY0Nzg0NzA2OmJidXJuczg1OEBnbWFpbC5jb20%3D" width="1" height="1" style="display:none !important;" alt="" />
+
+<p><font face="Verdana" size="1">This email was sent to bburns858@gmail.com. If you no longer wish to receive these emails you may <a href=
+"http://go.act.org/u/DG9n00F0QCs00D43uS2C00P"
+>unsubscribe</a> at any time. </font> </p>
+</body>
+</html>
