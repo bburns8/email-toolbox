@@ -1,11 +1,17 @@
 import csv, smtplib, ssl
+import pandas as pd
+
+data = pd.read_csv(r'/home/blake/PycharmProjects/email-toolbox/customers.csv')
+df = pd.DataFrame(data, columns=['Name', 'Email', 'Balance'])
+print(df)
+
 
 message = """\
 From: {sender}
 To: {email}
-Subject: Your Grades
+Subject: Your Balance
 
-Hi {name} your grade is {grade}.
+Hi {name} your balance is {balance}.
 """
 
 sender = 'bburns858@gmail.com'
@@ -15,10 +21,10 @@ context = ssl.create_default_context()
 
 with smtplib.SMTP_SSL('smtp.gmail.com', 465, context=context) as server:
     server.login(sender, password)
-    with open('contacts.csv') as file:
+    with open('customers.csv') as file:
         reader = csv.reader(file)
         next(reader)
-        for name, email, grade in reader:
+        for name, email, balance in reader:
             server.sendmail(
                 sender,
                 email,
@@ -26,6 +32,6 @@ with smtplib.SMTP_SSL('smtp.gmail.com', 465, context=context) as server:
                     sender=sender,
                     email=email,
                     name=name,
-                    grade=grade,
+                    balance=balance,
                 )
             )
