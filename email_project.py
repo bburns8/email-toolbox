@@ -3,10 +3,6 @@ import email
 import imaplib
 import traceback
 from pathlib import PurePath
-from DTOs import DataManagerEmail, DataManagerFile
-from utils.logger import logger
-from utils.exceptions import ImportException
-from app import app
 
 
 class EmailConsumer:

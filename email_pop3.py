@@ -1,10 +1,13 @@
 # import python poplib module
+
 from email.parser import Parser
 from email.header import decode_header
 from email.utils import parseaddr
+
 import poplib
 
 # input email address, password, and pop3 server domain or ip address
+# run the test@smartCDR.com -> @gmail is receiving
 email = input('Email: ')
 password = input('Password: ')
 pop3_server = input('POP3 server: ')
