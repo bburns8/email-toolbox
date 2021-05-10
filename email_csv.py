@@ -9,7 +9,7 @@ df = pd.DataFrame(customerData, columns=['Name', 'Email', 'Balance'])
 # print(df)
 customerData.head()
 try:
-    conn = msql.connect(host='localhost', user='root', password='HenryLikes2Bark!')
+    conn = msql.connect(host='localhost', user='root', password='password')
     if conn.is_connected():
         cursor = conn.cursor()
         cursor.execute("CREATE DATABASE customers_db")
@@ -18,7 +18,7 @@ try:
 except Error as e:
     print("Error while connecting to MySQL", e)
 try:
-    conn = msql.connect(host='localhost', database='customers_db', user='root', password='HenryLikes2Bark!')
+    conn = msql.connect(host='localhost', database='customers_db', user='root', password='')
 
     if conn.is_connected():
         cursor = conn.cursor()
