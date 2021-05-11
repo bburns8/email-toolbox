@@ -96,7 +96,7 @@ imap.close()
 imap.logout()
 
 # insert the attachment data into table
-mydb = MySQLdb.connect(host='localhost', user='root', password='HenryLikes2Bark!', database='customers_db')
+mydb = MySQLdb.connect(host='localhost', user='root', password='password!database='customers_db')
 
 with open('customers.csv') as csv_file:
     csvfile = csv.reader(csv_file, delimiter=',')
