@@ -4,12 +4,12 @@ import mysql.connector as msql
 from mysql.connector import Error
 
 
-customerData = pd.read_csv(r'/home/blake/PycharmProjects/email-toolbox/customers.csv', index_col=False)
+customerData = pd.read_csv(r'customers.csv', index_col=False)
 df = pd.DataFrame(customerData, columns=['Name', 'Email', 'Balance'])
 # print(df)
 customerData.head()
 try:
-    conn = msql.connect(host='localhost', user='root', password='password')
+    conn = msql.connect(host='localhost', user='root', password='password!')
     if conn.is_connected():
         cursor = conn.cursor()
         cursor.execute("CREATE DATABASE customers_db")
@@ -18,7 +18,7 @@ try:
 except Error as e:
     print("Error while connecting to MySQL", e)
 try:
-    conn = msql.connect(host='localhost', database='customers_db', user='root', password='')
+    conn = msql.connect(host='localhost', database='customers_db', user='root', password='password!')
 
     if conn.is_connected():
         cursor = conn.cursor()
@@ -37,7 +37,7 @@ try:
 except Error as e:
     print("Error while connecting to MySQL", e)
 
-sql = "SELECT * FROM customers"
+sql = "SELECT * FROM customers_info"
 cursor.execute(sql)
 result = cursor.fetchall()
 for i in result:
@@ -61,6 +61,7 @@ password = input('Please enter password here:')
 context = ssl.create_default_context()
 with smtplib.SMTP_SSL('smtp.gmail.com', 465, context=context) as server:
     server.login(sender, password)
+    # get the attachments from email not hard coded
     with open('customers.csv') as file:
         reader = csv.reader(file)
         next(reader)

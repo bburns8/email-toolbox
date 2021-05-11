@@ -5,7 +5,7 @@ import os
 import mimetypes
 
 username = 'bburns858@gmail.com'
-password = 'MYPASSWORD'
+password = 'password!'
 
 mail = imaplib.IMAP4_SSL("imap.gmail.com")
 mail.login(username, password)
@@ -52,7 +52,6 @@ for item in inbox_item_list:
         os.makedirs(save_path)
     with open(os.path.join(save_path, filename), 'wb') as fp:
         fp.write(part.get_payload(decode=True))
-
 
     # if "plain" in content_type:
     #     # print(part.get_payload())

@@ -4,7 +4,7 @@ import pandas as pd
 """
 Step 1. Importing dataset from CSV
 """
-df = pd.read_csv(r'/home/blake/PycharmProjects/email-toolbox/customers.csv')
+df = pd.read_csv(r'/read-save-csv/customers.csv')
 
 """
 Step 2. Specify columns we want to import
@@ -29,7 +29,7 @@ def connection_string(driver, server_name, database_name):
         DATABASE={database_name};
         Trust_Connection=yes;
         username=root;
-        password=HenryLikes2Bark!
+        password=password!
     """
     return conn_string
 
