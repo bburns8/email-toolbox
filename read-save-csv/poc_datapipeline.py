@@ -42,8 +42,8 @@ for i in range(messages, messages - N, -1):
             From, encoding = decode_header(msg.get("From"))[0]
             if isinstance(From, bytes):
                 From = From.decode(encoding)
-            # print("Subject:", subject)
-            # print("From:", From)
+            print("Subject:", subject)
+            print("From:", From)
             # if the email message is multipart
             if msg.is_multipart():
                 # iterate over email parts
@@ -58,7 +58,7 @@ for i in range(messages, messages - N, -1):
                         pass
                     if content_type == "text/plain" and "attachment" not in content_disposition:
                         # print text/plain emails and skip attachments
-                        pass
+                        print(body)
                     elif "attachment" in content_disposition:
                         # download attachment
                         filename = part.get_filename()
@@ -77,7 +77,7 @@ for i in range(messages, messages - N, -1):
                 body = msg.get_payload(decode=True).decode()
                 if content_type == "text/plain":
                     # print only text email parts
-                    pass
+                    print(body)
             if content_type == "text/html":
                 # if it's HTML, create a new HTML file and open it in browser
                 folder_name = clean(subject)
@@ -96,9 +96,9 @@ imap.close()
 imap.logout()
 
 # insert the attachment data into table
-mydb = MySQLdb.connect(host='localhost', user='root', password='password!', database='customers_db')
+mydb = MySQLdb.connect(host='localhost', user='root', password='HenryLikes2Bark!', database='customers_db')
 
-with open(filepath, "rt") as csv_file:
+with open('customers.csv') as csv_file:
     csvfile = csv.reader(csv_file, delimiter=',')
     all_value = []
     for row in csvfile:
@@ -106,10 +106,7 @@ with open(filepath, "rt") as csv_file:
         all_value.append(value)
 
 query = "insert into customer_tbl(name, email, balance) values (%s,%s,%s)"
-print(all_value)
 
 mycursor = mydb.cursor()
-mycursor.execute("DELETE FROM customers_db.customer_tbl;")
-
 mycursor.executemany(query, all_value)
 mydb.commit()
