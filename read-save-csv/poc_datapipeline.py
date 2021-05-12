@@ -42,8 +42,8 @@ for i in range(messages, messages - N, -1):
             From, encoding = decode_header(msg.get("From"))[0]
             if isinstance(From, bytes):
                 From = From.decode(encoding)
-            print("Subject:", subject)
-            print("From:", From)
+            # print("Subject:", subject)
+            # print("From:", From)
             # if the email message is multipart
             if msg.is_multipart():
                 # iterate over email parts
@@ -58,7 +58,7 @@ for i in range(messages, messages - N, -1):
                         pass
                     if content_type == "text/plain" and "attachment" not in content_disposition:
                         # print text/plain emails and skip attachments
-                        print(body)
+                        pass
                     elif "attachment" in content_disposition:
                         # download attachment
                         filename = part.get_filename()
@@ -96,9 +96,9 @@ imap.close()
 imap.logout()
 
 # insert the attachment data into table
-mydb = MySQLdb.connect(host='localhost', user='root', password='HenryLikes2Bark!', database='customers_db')
+mydb = MySQLdb.connect(host='localhost', user='root', password='password!', database='customers_db')
 
-with open('customers.csv') as csv_file:
+with open(filepath, "r") as csv_file:
     csvfile = csv.reader(csv_file, delimiter=',')
     all_value = []
     for row in csvfile:
@@ -109,4 +109,5 @@ query = "insert into customer_tbl(name, email, balance) values (%s,%s,%s)"
 
 mycursor = mydb.cursor()
 mycursor.executemany(query, all_value)
+print(all_value)
 mydb.commit()
