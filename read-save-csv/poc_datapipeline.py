@@ -8,7 +8,7 @@ import MySQLdb
 
 # account credentials
 username = "bburns858@gmail.com"
-password = "password!"
+password = "Daddybrad858!"
 
 
 def clean(text):
@@ -96,14 +96,12 @@ imap.close()
 imap.logout()
 
 # insert the attachment data into table
-mydb = MySQLdb.connect(host='localhost', user='root', password='password!', database='customers_db')
+mydb = MySQLdb.connect(host='localhost', user='root', password='HenryLikes2Bark!', database='customers_db')
 
 with open(filepath, "r") as csv_file:
     csvfile = csv.reader(csv_file, delimiter=',')
     all_value = []
-    for row in csvfile:
-        value = (row[0], row[1], row[2])
-        all_value.append(value)
+
 
 query = "insert into customer_tbl(name, email, balance) values (%s,%s,%s)"
 
